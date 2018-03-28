@@ -13,10 +13,9 @@ From this data, the program can generate four quite interesting graphs:
 - Oldest online people vs Youngest online people
 - Users' age from 0 to 110 in groups of tens
 
-##Installing on linux
+## Instalation on linux
 
 ```
 sudo apt-get install python3
 pip install bs4 lxml iso3166 matplotlib numpy
-
 ```
