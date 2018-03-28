@@ -17,5 +17,5 @@ From this data, the program can generate four quite interesting graphs:
 
 ```
 sudo apt-get install python3
-pip install bs4 lxml iso3166 matplotlib numpy
+sudo pip install bs4 lxml iso3166 matplotlib numpy
 ```
